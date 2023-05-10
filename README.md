@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on React Native and Text Mining with Python
+- 🌱 I’m currently learning Python and React Native
+- 📫 How to reach me: alkan.atakan@outlook.com
