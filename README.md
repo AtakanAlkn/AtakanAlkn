@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-Hi there 👋 I'm Atakan
+Hi 👋 My name is Atakan Alkan
 =============================
 
 Computer Engineering Student
