@@ -21,7 +21,7 @@ Hi there 👋 I'm Atakan
 Computer Engineering Student
 ----------------------------
 
-I am a Computer Engineering student and I am improving myself on mobile application development with React Native
+I am a Computer Engineer and I am improving myself on mobile application development with React Native
 
 - 🔭 I’m currently working on React Native and Text Mining with Python
 - 🌱 I’m currently learning Python and React Native
