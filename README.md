@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi there 👋 I'm Atakan
 =============================
 
-Computer Engineering Student
+Computer Engineering 
 ----------------------------
 
 I am a Computer Engineer and I am improving myself on mobile application development with React Native
